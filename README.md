@@ -1,9 +1,9 @@
 # Project 2: File System
 
-This is the starter code for [Project 2](https://khoury-cs3650.github.io/p2.html). The following contents are provided:
+based on starter code for [Project 2](https://khoury-cs3650.github.io/p2.html). The following contents are provided but most have now be edited:
 
 - [Makefile](Makefile)   - Targets are explained in the assignment text
-- [README.md](README.md) - This README
+- [README.md](README.md) - This README now edited by me
 - [helpers](helpers)     - Helper code implementing access to bitmaps and blocks
 - [hints](hints)         - Incomplete bits and pieces that you might want to use as inspiration
 - [nufs.c](nufs.c)       - The main file of the file system driver
