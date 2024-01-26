@@ -1,6 +1,6 @@
 # Project 2: File System
 
-based on starter code for [Project 2](https://khoury-cs3650.github.io/p2.html). The following contents are provided but most have now be edited:
+based on starter code for [Project 2](https://khoury-cs3650.github.io/p2.html). The following contents are provided but most have now been edited:
 
 - [Makefile](Makefile)   - Targets are explained in the assignment text
 - [README.md](README.md) - This README now edited by me
